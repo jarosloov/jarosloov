@@ -1,5 +1,8 @@
-```C#
+![Header](assets/Фон.png)[](https://github.com/jarosloov)
 
+
+```C#
+for(int i = i; i < 2; ++i ) { }
 ```
 
 
