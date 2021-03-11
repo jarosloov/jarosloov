@@ -1,4 +1,4 @@
-![Header](assets/Фон.png)[](https://github.com/jarosloov)
+![Header](assets/video.gif)[](https://github.com/jarosloov)
 
 #	&#9883; I am a novice programmer who is crazy about pixel games	&#9883;
 
