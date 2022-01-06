@@ -7,6 +7,9 @@
 2. C++
 3. Python
 4. Markdown
+5. LaTeX
+6. MatLab
+7. Mathematica
 
 <!--## Мy statistics
 
