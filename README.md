@@ -25,7 +25,7 @@ BLOG-POST-LIST:START
  -->
 ### Connect with me:
 ```
-<!--Telegram @jarosloov-->
+
 Gmail: jarosloov@gmail.com
 ```
 
