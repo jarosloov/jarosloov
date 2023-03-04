@@ -1,33 +1,3 @@
-### **Hi, I'm Yaroslav Brinchuk**
-
-*Student of the Faculty of Mathematics of UrFU. Third year, specialty-mechanics, and mathematical modeling. Developer on the Unity engine, C# programmer.*
-
-## Languages and tools
-1. С#
-2. C++
-3. Python
-4. Markdown
-5. LaTeX
-6. MatLab
-7. Mathematica
-
-<!--## Мy statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarosloov)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-<!-- 
-## 📕 Latest Blog Posts
-
-BLOG-POST-LIST:START 
-- [GitForKids](https://github.com/jarosloov/GitForKids)
-- [MarkdownTutorial](https://github.com/jarosloov/MarkdownTutorial)
- -->
-### Connect with me:
-```
-
-Gmail: jarosloov@gmail.com
-```
 
 
 
